@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.jumbotron{
+    
+}
+.jumbotron .col:nth-child(1) img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.jumbotron .col:nth-child(2) h5{
+    
+}
